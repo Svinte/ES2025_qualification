@@ -7,4 +7,4 @@ Laravel based program. Recommended using Xampp.
 - PHP 8.2
 - MySQL
 
-SQL database on SQL folder. Database user Root with no password. You can also run ´´´php artisan migrate:fresh seed´´´ to instal default data.
+SQL database on SQL folder. Database user Root with no password. You can also run ```php artisan migrate:fresh seed``` to instal default data.
