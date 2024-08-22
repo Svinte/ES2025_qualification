@@ -1,0 +1,21 @@
+.navigation
+{
+    background-color: #242121;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: flex;
+    gap: 1rem;
+    padding: 0.5rem;
+}
+
+.navigation__item
+{
+    list-style: none;
+    color: white;
+}
+
+.navigation__item a
+{
+    color: white;
+}
